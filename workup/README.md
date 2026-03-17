@@ -16,7 +16,7 @@ I'm reasonably impressed by the richness of the responses and could be something
 The python program would need tweaking to send the text to a suitable device that is able to display the vision readout.
 
 
-See [VLM_examples.pdf](../workup/VLM_examples.pdf)
+See [VLM_examples.pdf](../workup/VLM_examples-2.pdf)
 
 ## installation
 
