@@ -1,4 +1,8 @@
-# Additional Notes
+# Workup — Exploratory Research (Out of Scope)
+
+> **Note:** This folder contains experimental work shared by the project sponsor (Bob Potter) around Vision Language Models (VLMs) on edge hardware. This is **not part of the current MVP scope** but is preserved here as a potential future enhancement direction.
+
+---
 
 # VLM Module - PI - Bob Potter - telemetry solutions
 
