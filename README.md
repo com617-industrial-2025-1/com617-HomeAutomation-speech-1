@@ -6,6 +6,8 @@ A voice-controlled, AI-enhanced, locally-running smart home system built on Home
 
 See [Project Brief](./Sprint_1_Research_and_Discovery/ProjectBrief.md)
 
+To set yp your own clone of this system see the [Setup Guide](./setup_guide.md)
+
 ---
 
 ## Technology Stack
