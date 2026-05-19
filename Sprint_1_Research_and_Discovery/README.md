@@ -9,4 +9,4 @@ This folder contains the documentation produced during Sprint 1, where the team 
 3. [`03_Solution_Proposal.md`](./03_Solution_Proposal.md) — User persona "Arthur", point-by-point requirements, proposed architecture, sprint planning rationale, and role allocation
 
 4. [AI Model Research](./ai_model_research.md)
-5. [Point By Point](./point_by_point.md)
+5. [Point By Point Requirements](./point_by_point.md)
